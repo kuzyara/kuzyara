@@ -13,7 +13,7 @@ https://t.me/KuzNikAl
 1C (BSL), Onescript, Groovy, Go, Java, VanessaADD, gitlab, EDT, SonarCube, RabbitMQ, ELK, Jenkins shared library (gitsync, QA, deploy), zabbix, grafana, MSSQL, swagger, clickhouse
 
 ### Выполненные задачи
-[rossko_changelog.txt](https://gist.github.com/kuzyara)
+[rossko_changelog.txt](https://gist.github.com/kuzyara/dbb2e32f017fc3b4086a1e25fb0f7d2f)
 
 <!--
 **kuzyara/kuzyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
