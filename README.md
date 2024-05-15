@@ -12,8 +12,8 @@ https://t.me/KuzNikAl
 ### Languages and Tools 🛠
 1C (BSL), Onescript, Pyhton, Groovy, Go, Java, VanessaADD, gitlab, EDT, SonarCube, RabbitMQ, ELK, Jenkins shared library (gitsync, QA, deploy), zabbix, grafana, MSSQL, swagger, clickhouse
 
-### Выполненные задачи
-[rossko_changelog.txt](https://gist.github.com/kuzyara/dbb2e32f017fc3b4086a1e25fb0f7d2f)
+### BSL
+The .bsl file extension is commonly associated with BSL (Business Solution Language), which is used in 1C:Enterprise, a software platform developed by the Russian company 1C Company. 1C:Enterprise is widely used for enterprise resource planning (ERP), accounting, and other business applications, particularly in Russia and the CIS region.
 
 <!--
 **kuzyara/kuzyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
