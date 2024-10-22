@@ -10,7 +10,7 @@
 https://t.me/KuzNikAl
 
 ### Languages and Tools 🛠
-1C (BSL), Onescript, Pyhton, Groovy, Go, Java, VanessaADD, gitlab, EDT, SonarCube, RabbitMQ, ELK, Jenkins shared library (gitsync, QA, deploy), zabbix, grafana, MSSQL, swagger, clickhouse
+1C (BSL), Onescript, Pyhton, Groovy, Go, Java, VanessaADD, xUnit, Gitlab, EDT, SonarCube, RabbitMQ, ELK, Jenkins shared library (gitsync, QA, deploy), zabbix, grafana, MSSQL, swagger, clickhouse
 
 ### What is BSL?
 The .bsl file extension is commonly associated with BSL (Business Solution Language), which is used in 1C:Enterprise, a software platform developed by the Russian company 1C Company. 1C:Enterprise is widely used for enterprise resource planning (ERP), accounting, and other business applications, particularly in Russia and the CIS region.
